@@ -1,0 +1,9 @@
+.leftst{
+   font-size: 15px; 
+   font-weight: bold;
+   margin-right:50px;
+}
+
+.social:{
+    display: flex;
+}

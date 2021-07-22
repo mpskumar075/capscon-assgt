@@ -1,0 +1,54 @@
+.profile {
+    border-radius: 50%;
+    width: auto;
+    height: auto;
+    max-height: 150px;
+    max-width: 150px;
+    margin-left: 45px;
+    margin-bottom: 10px;
+}
+
+.profiless{
+    margin-top:18px;
+}
+
+.prof{
+   margin-right: 4px;
+  font-weight: bold;  
+}
+
+.profiles{
+   font-weight: bold;
+   margin-right: 150px; 
+}
+
+.disc {
+    margin-right: 105px;
+    font-weight: bold;
+}
+
+.home{
+  margin-right: 154px;
+    font-weight: bold;  
+}
+
+.expand {
+    margin-right: 132px;
+    font-weight: bold;
+}
+
+.more {
+    font-weight: bold;
+    margin-right: 129px;
+}
+
+.discp{
+    text-transform: lowercase;
+}
+
+.Toptools{
+    display: flex;
+    margin-left: 1000px;
+}
+
+
